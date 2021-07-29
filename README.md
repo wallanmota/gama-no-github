@@ -5,4 +5,4 @@ Até o momento o curso está sendo bem proveitoso, aprendi alguns novos conceito
 Espero continuar aprendendo e evoluindo.
 
 [PUSH OK]
-{Wallan}
+* Wallan
